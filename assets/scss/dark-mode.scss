@@ -275,4 +275,8 @@ body.night {
       }
     }
   }
+
+  div .katex * {
+    color: $dark-mode-text;
+  }
 }
